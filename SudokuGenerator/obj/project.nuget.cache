@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nCtOL2fIH1ePdmjlqIq287U80YiOxg9dq0qDgSBLbhp52r3JHkSBgfslKEXkMFL/EJL16K3vR8jUnr7NAzPamA==",
+  "success": true,
+  "projectFilePath": "/Users/hunteraustin/code-louisville/software-dev1/SudokuGenerator/SudokuGenerator/SudokuGenerator.csproj",
+  "expectedPackageFiles": [
+    "/Users/hunteraustin/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.11/microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "/Users/hunteraustin/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.11/microsoft.netcore.app.host.osx-x64.6.0.11.nupkg.sha512",
+    "/Users/hunteraustin/.nuget/packages/microsoft.netcore.app.ref/6.0.11/microsoft.netcore.app.ref.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

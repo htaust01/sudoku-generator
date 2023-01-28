@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{959E27BC-3F8D-4B29-A1DC-988B9F8F4A4E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SudokuGenerator/Program.cs">
+    <Files>
+      <File FileName="SudokuGenerator/Program.cs" Line="19" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SudokuGenerator" expanded="True">
+            <Node name="SudokuGenerator" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.SudokuGenerator PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
